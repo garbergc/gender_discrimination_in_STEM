@@ -1,0 +1,121 @@
+occupation,occupation_category,total_employed,men_employed,women_employed,percent_of_women,total_median_earnings,men_earnings,women_earnings,percent_of_men_earnings
+Computer and information systems managers,Computer Occupations,660466,464427,196039,29.7,112542,118104,101763,86.2
+Computer and information research scientists,Computer Occupations,35193,23902,11291,32.1,115444,121128,102179,84.4
+Computer systems analysts,Computer Occupations,612083,362999,249084,40.7,81998,89427,75628,84.6
+Information security analysts,Computer Occupations,129062,105305,23757,18.4,100526,101763,86684,85.2
+Computer programmers,Computer Occupations,337016,265291,71725,21.3,88133,90404,82351,91.1
+Software developers,Computer Occupations,1640590,1332895,307695,18.8,111358,114190,101266,88.7
+Software quality assurance analysts and testers,Computer Occupations,72131,41565,30566,42.4,77462,79116,75591,95.5
+Web developers,Computer Occupations,105422,72434,32988,31.3,72754,76175,62340,81.8
+Web and digital interface designers,Computer Occupations,70668,39373,31295,44.3,63645,65154,62292,95.6
+Computer support specialists,Computer Occupations,680587,503120,177467,26.1,59893,60877,55112,90.5
+Database administrators and architects,Computer Occupations,128795,84939,43856,34.1,90976,96930,70256,72.5
+Network and computer systems administrators,Computer Occupations,223787,181556,42231,18.9,75994,76323,73211,95.9
+Computer network architects,Computer Occupations,114360,104974,9386,8.2,96521,96066,101160,105.3
+"Computer occupations, all other",Computer Occupations,699658,510236,189422,27.1,66873,70029,61048,87.2
+Actuaries,Mathematical Science Occupations,34295,20645,13650,39.8,121833,133788,101006,75.5
+Mathematicians,Mathematical Science Occupations,3748,2732,1016,27.1,126771,131394,94905,(X)
+Operations research analysts,Mathematical Science Occupations,162036,82327,79709,49.2,82311,91362,75537,82.7
+Statisticians,Mathematical Science Occupations,46510,23381,23129,49.7,94269,100273,92037,91.8
+Other mathematical science occupations,Mathematical Science Occupations,135973,74239,61734,45.4,76480,78141,74189,94.9
+Architectural and engineering managers,Engineering Occupations,174799,154808,19991,11.4,146705,147093,142245,96.7
+"Surveyors, cartographers, and photogrammetrists",Engineering Occupations,38618,30916,7702,19.9,66424,70273,56659,(X)
+Aerospace engineers,Engineering Occupations,130727,114393,16334,12.5,110761,112402,101105,89.9
+Agricultural engineers,Engineering Occupations,3010,2614,396,13.2,91306,90716,93777,(X)
+Bioengineers and biomedical engineers,Engineering Occupations,14712,11810,2902,19.7,92598,94134,90990,(X)
+Chemical engineers,Engineering Occupations,77299,61820,15479,20,102493,105727,101296,95.8
+Civil engineers,Engineering Occupations,425576,358160,67416,15.8,90702,91923,79966,87
+Computer hardware engineers,Engineering Occupations,59146,48993,10153,17.2,101495,102060,90923,(X)
+Electrical and electronics engineers,Engineering Occupations,259437,236008,23429,9,101450,101802,92617,91
+Environmental engineers,Engineering Occupations,32561,21970,10591,32.5,84613,91027,80086,88
+"Industrial engineers, including health and safety ",Engineering Occupations,256526,205133,51393,20,85497,86334,80836,93.6
+Marine engineers and naval architects,Engineering Occupations,11739,10830,909,7.7,87524,86276,103672,(X)
+Materials engineers,Engineering Occupations,52724,45352,7372,14,87405,87936,82210,93.5
+Mechanical engineers,Engineering Occupations,328181,299637,28544,8.7,91119,91189,90524,99.3
+"Mining and geological engineers, including mining safety engineers",Engineering Occupations,7552,7052,500,6.6,105597,110014,78145,(X)
+Nuclear engineers,Engineering Occupations,7605,6376,1229,16.2,111449,111834,105182,(X)
+Petroleum engineers,Engineering Occupations,29269,24013,5256,18,135549,138456,126712,(X)
+"Engineers, all other",Engineering Occupations,593540,508067,85473,14.4,100779,101281,91932,90.8
+Architectural and civil drafters,Engineering Occupations,54878,43661,11217,20.4,54740,56781,46393,81.7
+Other drafters,Engineering Occupations,94179,74863,19316,20.5,56894,58064,50363,86.7
+Electrical and electronic engineering technologists and technicians,Engineering Occupations,109786,99857,9929,9,65019,65471,52401,80
+"Other engineering technologists and technicians, except drafters",Engineering Occupations,387073,303599,83474,21.6,56233,60034,48180,80.3
+Surveying and mapping technicians,Engineering Occupations,71453,65147,6306,8.8,53158,53592,46654,(X)
+Sales engineers,Engineering Occupations,50003,44963,5040,10.1,121571,125063,91083,(X)
+Natural sciences managers,Life Scientists Occupations,17214,7453,9761,56.7,86206,91559,82432,90
+Agricultural and food scientists,Life Scientists Occupations,32376,20054,12322,38.1,72569,76256,69856,91.6
+Biological scientists,Life Scientists Occupations,93723,46388,47335,50.5,68265,67687,68603,101.4
+Conservation scientists and foresters,Life Scientists Occupations,23913,17047,6866,28.7,61702,65489,58470,89.3
+Medical scientists,Life Scientists Occupations,137083,59716,77367,56.4,76684,81831,73907,90.3
+"Life scientists, all other",Life Scientists Occupations,7105,3997,3108,43.7,70456,83521,62232,(X)
+Astronomers and physicists,Physical Scientists Occupations,14897,13025,1872,12.6,121178,121691,72245,(X)
+Atmospheric and space scientists,Physical Scientists Occupations,10750,7635,3115,29,79370,90894,58781,(X)
+Chemists and materials scientists,Physical Scientists Occupations,111121,62385,48736,43.9,76785,85197,66645,78.2
+"Environmental scientists and specialists, including health",Physical Scientists Occupations,39006,22908,16098,41.3,67013,70862,63309,89.3
+"Geoscientists and hydrologists, except geographers",Physical Scientists Occupations,48234,35691,12543,26,92380,93523,90643,96.9
+"Physical scientists, all other",Physical Scientists Occupations,320998,179021,141977,44.2,85113,92369,76748,83.1
+Economists,Social Scientists Occupations,30575,19619,10956,35.8,120055,122372,102443,83.7
+Survey researchers,Social Scientists Occupations,2968,1492,1476,49.7,62157,76322,58285,(X)
+Clinical and counseling psychologists,Social Scientists Occupations,23318,6370,16948,72.7,96335,100441,96079,(X)
+School psychologists,Social Scientists Occupations,48823,7450,41373,84.7,71199,80856,70524,(X)
+Other psychologists,Social Scientists Occupations,161667,46009,115658,71.5,85411,98820,80629,81.6
+Sociologists,Social Scientists Occupations,4408,1725,2683,60.9,78381,76241,87539,(X)
+Urban and regional planners,Social Scientists Occupations,38900,22435,16465,42.3,79013,78409,79918,101.9
+Miscellaneous social scientists and related workers,Social Scientists Occupations,44831,22743,22088,49.3,71322,74452,67575,90.8
+Agricultural and food science technicians,"Life, Physical, and Social Science Technicians",43394,25944,17450,40.2,50504,52062,46020,88.4
+Biological technicians,"Life, Physical, and Social Science Technicians",27683,13386,14297,51.6,51294,52030,50278,96.6
+Chemical technicians,"Life, Physical, and Social Science Technicians",69772,44094,25678,36.8,54646,56613,50723,89.6
+Environmental science and geoscience technicians,"Life, Physical, and Social Science Technicians",19384,13276,6108,31.5,62034,65797,54883,(X)
+Nuclear technicians,"Life, Physical, and Social Science Technicians",3689,2508,1181,32,86116,100736,36815,(X)
+Social science research assistants,"Life, Physical, and Social Science Technicians",9438,3626,5812,61.6,51958,57742,51324,(X)
+"Other life, physical, and social science technicians","Life, Physical, and Social Science Technicians",221847,107705,114142,51.5,46396,49080,43812,89.3
+"Architects, except landscape and naval",Architecture Occupations,204883,149406,55477,27.1,87239,92818,72021,77.6
+Landscape architects,Architecture Occupations,33351,20914,12437,37.3,69063,71685,61693,86.1
+Medical and health services managers,Healthcare Occupations,680272,188027,492245,72.4,75556,88871,71282,80.2
+Chiropractors,Healthcare Occupations,66438,47529,18909,28.5,75365,80030,62315,77.9
+Dentists,Healthcare Occupations,178537,119728,58809,32.9,152233,167574,140040,83.6
+Dietitians and nutritionists,Healthcare Occupations,104259,9384,94875,91,54338,56615,53875,95.2
+Optometrists,Healthcare Occupations,46473,24859,21614,46.5,120503,131284,108797,82.9
+Pharmacists,Healthcare Occupations,336095,139371,196724,58.5,122473,128130,121218,94.6
+Emergency medicine physicians,Healthcare Occupations,20023,13357,6666,33.3,"250,000+","250,000+",239068,(Z)
+Radiologists,Healthcare Occupations,22772,16584,6188,27.2,"250,000+","250,000+","250,000+",(Z)
+Other physicians,Healthcare Occupations,871566,524089,347477,39.9,217588,"250,000+",185183,(Z)
+Surgeons,Healthcare Occupations,54546,44467,10079,18.5,"250,000+","250,000+",222197,(Z)
+Physician assistants,Healthcare Occupations,141608,44826,96782,68.3,110834,121816,105676,86.8
+Podiatrists,Healthcare Occupations,10994,7982,3012,27.4,144143,150911,135035,(X)
+Audiologists,Healthcare Occupations,19675,3457,16218,82.4,81269,99122,80849,(X)
+Occupational therapists,Healthcare Occupations,135914,12797,123117,90.6,72877,79798,72121,90.4
+Physical therapists,Healthcare Occupations,270728,89560,181168,66.9,80762,85977,77337,90
+Radiation therapists,Healthcare Occupations,15061,4614,10447,69.4,79974,80623,77526,(X)
+Recreational therapists,Healthcare Occupations,15951,3083,12868,80.7,36331,35641,36406,(X)
+Respiratory therapists,Healthcare Occupations,118299,40183,78116,66,60774,65518,58067,88.6
+Speech-language pathologists,Healthcare Occupations,177996,7715,170281,95.7,66888,71411,66741,(X)
+Exercise physiologists,Healthcare Occupations,7640,2833,4807,62.9,45873,47076,42457,(X)
+"Therapists, all other",Healthcare Occupations,187293,36646,150647,80.4,51889,53832,51628,95.9
+Veterinarians,Healthcare Occupations,94169,32192,61977,65.8,101187,121405,95460,78.6
+Registered nurses,Healthcare Occupations,3361580,397184,2964396,88.2,69754,73603,68509,93.1
+Nurse anesthetists,Healthcare Occupations,41210,16372,24838,60.3,178784,182499,171149,93.8
+Nurse midwives,Healthcare Occupations,6308,0,6308,100,106529,-,106529,(X)
+Nurse practitioners,Healthcare Occupations,213156,22431,190725,89.5,104948,113546,103312,91
+Acupuncturists,Healthcare Occupations,21943,7548,14395,65.6,55795,56868,51463,(X)
+"Healthcare diagnosing or treating practitioners, all other",Healthcare Occupations,9995,2788,7207,72.1,37946,15044,49186,(X)
+Clinical laboratory technologists and technicians,Healthcare Occupations,332288,89377,242911,73.1,47169,48452,46840,96.7
+Dental hygienists,Healthcare Occupations,202381,10070,192311,95,60521,73379,60287,(X)
+Cardiovascular technologists and technicians,Healthcare Occupations,48964,19295,29669,60.6,55066,66510,50686,76.2
+Diagnostic medical sonographers,Healthcare Occupations,94819,19795,75024,79.1,70908,85815,67244,78.4
+Radiologic technologists and technicians,Healthcare Occupations,213130,66377,146753,68.9,57144,62255,54238,87.1
+Magnetic resonance imaging technologists,Healthcare Occupations,47311,22426,24885,52.6,71373,78467,66369,84.6
+Nuclear medicine technologists and medical dosimetrists,Healthcare Occupations,26682,12432,14250,53.4,90989,90113,95376,105.8
+Emergency medical technicians,Healthcare Occupations,133337,79700,53637,40.2,36568,37011,35979,97.2
+Paramedics,Healthcare Occupations,107633,74831,32802,30.5,56107,59454,52038,87.5
+Pharmacy technicians,Healthcare Occupations,378007,87577,290430,76.8,33916,36409,32655,89.7
+Psychiatric technicians,Healthcare Occupations,88386,27107,61279,69.3,34020,34830,33194,95.3
+Surgical technologists,Healthcare Occupations,109927,28632,81295,74,45502,50890,42475,83.5
+Veterinary technologists and technicians,Healthcare Occupations,147557,18083,129474,87.7,31639,32454,31523,97.1
+Dietetic technicians and ophthalmic medical technicians,Healthcare Occupations,61083,11370,49713,81.4,28985,27235,29511,(X)
+Licensed practical and licensed vocational nurses,Healthcare Occupations,707964,81438,626526,88.5,42180,47859,41851,87.4
+Medical records specialists,Healthcare Occupations,189273,16812,172461,91.1,42724,42418,42756,100.8
+"Opticians, dispensing",Healthcare Occupations,71631,20313,51318,71.6,38783,51825,35033,67.6
+Miscellaneous health technologists and technicians,Healthcare Occupations,148334,52785,95549,64.4,44690,50444,41498,82.3
+Other healthcare practitioners and technical occupations,Healthcare Occupations,98151,33665,64486,65.7,55473,61136,52462,85.8
+Total non-STEM Occupations,Healthcare Occupations,137313311,72368965,64944346,47.3,45560,50439.99999999999,40560,80.4
